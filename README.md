@@ -11,3 +11,5 @@ I provide a Jupyter Notebook file that serves as a comprehensive example of how 
 
 # How to contribute?
 Feel free to modify or enhance any aspect of the tool according to your requirements. Additionally, you can discuss any concerns with me via email at sina.sabermahani@gmail.com.
+
+This software is available as is.
